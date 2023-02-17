@@ -3,7 +3,9 @@
 Screenshots of my application:
 
 ![Screenshot (22)](https://user-images.githubusercontent.com/50594243/219641195-04177eb7-aa32-46d7-afa3-f9e4afe87b2e.png)
+
 ![Screenshot (23)](https://user-images.githubusercontent.com/50594243/219641270-cb0b534e-9b1c-4e4d-a3e9-3ed0dc307ef1.png)
+
 ![Screenshot (26)](https://user-images.githubusercontent.com/50594243/219641767-adee8fdd-fea9-4733-a35f-e9604be7fc9e.png)
 
 # Getting Started with Create React App
